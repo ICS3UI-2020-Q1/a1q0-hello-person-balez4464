@@ -37,7 +37,7 @@ public class Main {
    // declare and calculate their age 
    int age = CURRENT_YEAR - birthYear;
    //Tell the user their age
-   System.out.println("You are " + age + " years old");
+   System.out.println("You are " + age + " years old.");
   }
 
 }
